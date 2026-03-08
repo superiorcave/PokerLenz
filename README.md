@@ -6,6 +6,7 @@ Poker assistant agent turned into a discrete and slick design. It utilizes the O
 
 #Presentation: 
 https://docs.google.com/presentation/d/1URacGMGSlem55DSd2-C8D5CqfvSaDkgC-CkSohvJeEQ/edit?usp=sharing
+
 #YT Video
 https://www.youtube.com/shorts/t8tnqh3iKe8
 
